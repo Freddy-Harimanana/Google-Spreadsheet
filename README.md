@@ -17,4 +17,5 @@
 					   --'csv'--
 
 Dossier ".lib/email"==========>> le code integrale/avec les methodes/les commentaires/
+
 Fichier "app.rb"    ==========>> le fichier pour lancer l appli
